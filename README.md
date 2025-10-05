@@ -45,21 +45,13 @@ Currently diving deeper into **React Native** to bring mobile app experiences to
 
 ---
 
-### 🏗️ Featured Projects
-
-- 🧾 **[Project 1 Name](#)** — Short description of what it does.  
-- 💼 **[Project 2 Name](#)** — Another project highlight or live demo.  
-- 🌍 **[Portfolio Website](#)** — Your personal portfolio (if available).
-
----
-
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kuldeeptak" target="_blank">
+  <a href="https://www.linkedin.com/in/kuldeeptak22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kuldeeptak@example.com">
+  <a href="mailto:kuldeeptak2211@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
