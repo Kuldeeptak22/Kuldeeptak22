@@ -1,8 +1,74 @@
-- 👋 Hi, I’m @Kuldeeptak22
-- 👀 I’m interested in Creating websites based on new technology
-- 🌱 I’m currently learning MERN Stack Web Developement
-- 💞️ I’m Eager to obtain a challenging position at a prestigious company that will expand my learning and build upon my developer skills.
-- 📫 How to reach me https://github.com/Kuldeeptak22
+# 👋 Hi, I'm Kuldeep Tak
+
+🚀 **Full Stack Web Developer** | Passionate about building high-quality, scalable, and user-centric web & mobile applications.
+
+---
+
+### 🧠 About Me
+
+I'm a results-driven **Full Stack Developer** with expertise in both frontend and backend technologies.  
+I love crafting intuitive UIs, developing efficient backend systems, and constantly exploring new tools to level up my development workflow.  
+Currently diving deeper into **React Native** to bring mobile app experiences to life 📱.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🌐 Frontend
+- **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, **Redux / Redux Toolkit**, **RTK Query**, **Zustand**, **Tanstack Query**
+
+#### ⚙️ Backend
+- **Node.js**, **Express.js**, **MongoDB**, **Mongoose**
+
+#### 📱 Mobile
+- **React Native** *(Currently Learning)*
+
+#### 🛠 Tools & Utilities
+- **Lucid Chart**, **Git / GitHub**, **VS Code**, **Postman**, **Vercel**, **Render**
+
+---
+
+### 🌟 Currently Working On
+- Building scalable **full-stack web apps** with **Next.js + Node.js**
+- Improving **UI/UX** using **TailwindCSS + ShadCN**
+- Exploring **mobile app development** with **React Native**
+- Experimenting with **state management** and **API optimization** using **RTK Query** and **Tanstack Query**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kuldeeptak&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeeptak&theme=radical" />
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+- 🧾 **[Project 1 Name](#)** — Short description of what it does.  
+- 💼 **[Project 2 Name](#)** — Another project highlight or live demo.  
+- 🌍 **[Portfolio Website](#)** — Your personal portfolio (if available).
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kuldeeptak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kuldeeptak@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ **“Code. Create. Contribute.”**  
+Learning, building, and growing every day 🚀
+
 
 <!---
 Kuldeeptak22/Kuldeeptak22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
